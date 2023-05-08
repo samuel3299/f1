@@ -1415,6 +1415,7 @@ align-content: flex-start;
     .internal-top{
         width:100%;
         max-width: 100%;
+        margin:10px 0px 0px 0px;
     }
     .street-1{
         font-size: 25px;
